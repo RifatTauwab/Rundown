@@ -1,0 +1,8 @@
+1593	MOVIE	primary	olive 1	amb	1	10	0	false	false			CUT	1	Linear	RIGHT	0	0	false	false	false	Transparent	00:00:09:16	2016-02-22 15:30:00	0	2016-03-02 15:23:04.00	0	\N	\N	2D8271F3F8514C61ABD02CD4B1482E04
+1594	MOVIE	primary	promo	commercial_zan1	1	10	0	false	false			CUT	1	Linear	RIGHT	0	0	false	false	false	Transparent	00:00:08:16	2016-02-22 17:30:00	0	2016-03-02 15:23:12.00	0	\N	\N	36D0EA79F9E94816B01C64C9AC15A2F0
+1595	MOVIE	primary	promo	amb	1	10	0	false	false			CUT	1	Linear	RIGHT	0	0	false	false	false	Transparent	00:00:07:16	2016-02-22 18:30:00	0	2016-03-02 15:23:20.00	0	\N	\N	E0FE8E2A5743429BB5521E6DFD6054A4
+1596	MOVIE	primary	LIVE_2 	commercial_zan1	1	10	0	false	false			CUT	1	Linear	RIGHT	0	0	false	false	false	Transparent	00:00:10:16	2016-02-22 19:30:00	0	2016-03-02 15:23:31.00	0	\N	\N	
+1597	MOVIE	primary	promo	COM_SYSNOVA_ERP_UP_30s	1	10	0	false	false			CUT	1	Linear	RIGHT	0	0	false	false	false	Transparent	00:00:30:00	2016-02-22 02:30:00	0	2016-03-02 15:22:54.00	0	\N	\N	2D8271F3F8514C61ABD02CD4B1482E04
+1598	MOVIE	primary	promo	commercial_zan1	1	10	0	false	false			CUT	1	Linear	RIGHT	0	0	false	false	false	Transparent	00:00:05:16	2016-02-22 19:30:00	0	2016-03-02 15:23:37.00	0	\N	\N	36D0EA79F9E94816B01C64C9AC15A2F0
+1599	MOVIE	primary	olive 1	amb	1	10	0	false	false			CUT	1	Linear	RIGHT	0	0	false	false	false	Transparent	00:00:06:16	2016-02-22 19:30:00	0	2016-03-02 15:23:44.00	0	\N	\N	E0FE8E2A5743429BB5521E6DFD6054A4
+1600	MOVIE	primary	promo	commercial_zan1	1	10	0	false	false			CUT	1	Linear	RIGHT	0	0	false	false	false	Transparent	00:00:10:16	2016-02-22 19:30:00	0	2016-03-02 15:23:54.00	0	\N	\N	
